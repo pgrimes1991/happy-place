@@ -1,3 +1,4 @@
+Need to do some work on the tmux set up
 
 ## Vim and Vundle
 Install vundle from git:
