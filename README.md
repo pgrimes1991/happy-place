@@ -5,7 +5,7 @@ Install vundle from git:
 
 https://github.com/VundleVim/Vundle.vim
 
-*git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim*
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 Open vim and run :PluginInstall
 
@@ -14,7 +14,7 @@ The .vimrc in this repo should have all the key plugins, (ycmd server?)
 ## Git aliases
 add into the [alias] section of git config -e
 
-*[user]
+`[user]
 	email = pgrimes1991@yahoo.com
 	name = Patrick Grimes
 [core]
@@ -26,4 +26,4 @@ add into the [alias] section of git config -e
 	a = add
 	b = branch
 	ch = checkout
-*
+`
